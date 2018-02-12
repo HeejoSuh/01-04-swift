@@ -4,7 +4,7 @@
 //
 //
 //  Created by Heejo Suh in Feb 2018
-//  Copyright ¡§I 2018 MTHS. All rights reserved.
+//  Copyright @ 2018 MTHS. All rights reserved.
 //
 
 import Foundation
